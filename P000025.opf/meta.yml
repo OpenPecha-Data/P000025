@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །སྡོམ་གསུམ་ཁ་སྐོང་གི་རྣམ་བཤད་ལེགས་པར་བཤད་པ་ནོར་བུའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མང་ཐོས་ཀླུ་སྒྲུབ་རྒྱ་མཚོ།
+  sku: IBA-LG-04-1
+  layers:
+  - book_title
+  - author
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Wondrous Light for Clarifying the Ground, Path, and Fruition:A Supplement
+      for the Discourse on the Three Vows
+    bo: སྡོམ་གསུམ་རབ་ཏུ་དབྱེ་བའི་ཁ་སྐོང་གཞི་ལམ་འབྲས་གསུམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་འོད་ཀྱི་སྣང་བསྡོམ་པ་གསུམ་དང་གཞི་ལམ་འབྲས་གསུམ་སྐོར།
+  collection:
+    en: IBA Ludrup Gyatso Series–  Book 4
+    bo: ཀླུ་སྒྲུབ་རྒྱ་མཚོ་རྩོམ་བྲིས།–  དེབ། ༤
+  author:
+    en: Mangtho Ludrup Gyatso
+    bo: མང་ཐོས་ཀླུ་སྒྲུབ་རྒྱ་མཚོ།
+  pusblisher:
+    en: IBA Publications
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་།
+  sku: IBA-LG-04-1
+  category:
+    en: Three Vows
+    bo: སྡོམ་གསུམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: IBA-LG-04-1.epub
+  description:
+    en: Here Manthro Ludup wrote a commentary on the main theme of Basis, Path and
+      Result by closely relying on the root text of Sapan’s Three Vows.
+    bo: འགྲེལ་པ་འདི་ཡིས་སྡོམ་གསུམ་རབ་དབྱེ་ལས་འཕྲོ་ཏེ་བརྗོད་བྱ་གཞི་ལམ་འབྲས་གསུམ་གྱི་རྣམ་གཞག་རྒྱས་པར་འཆད་པ།
