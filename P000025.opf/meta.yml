@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000025
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྡོམ་གསུམ་ཁ་སྐོང་གི་རྣམ་བཤད་ལེགས་པར་བཤད་པ་ནོར་བུའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མང་ཐོས་ཀླུ་སྒྲུབ་རྒྱ་མཚོ།
-  sku: IBA-LG-04-1
   layers:
   - book_title
   - author
   - quotation
   - sabche
+  id: IBA-LG-04-1
 web_metadata:
   title:
     en: Wondrous Light for Clarifying the Ground, Path, and Fruition:A Supplement
